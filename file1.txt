@@ -1,1 +1,2 @@
 Hello, guys, I am adding some content in this empty text file so that I can proceed towards the second commit "Beta Testing".
+Now, I have successfully done my understanding of the three different directories: Working dir, Staging dir and Local Repository. 
